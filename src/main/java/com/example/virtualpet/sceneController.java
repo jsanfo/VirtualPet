@@ -3,7 +3,7 @@ package com.example.virtualpet;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class sceneController {
     @FXML
     private Label welcomeText;
 
